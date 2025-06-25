@@ -88,4 +88,4 @@ volumes:
 
 ## 📝 License
 
-This project is licensed under the [UNLICENSED](LICENSE) license.
+This project is licensed under the [MIT license](LICENSE).
